@@ -8,8 +8,7 @@ export const Bio = {
   description:
   "Passionate about crafting exceptional web experiences and leveraging innovative technologies to build cutting-edge solutions. Adept in working both front-end and back-end development process. Highly skilled in programming design, development and implementation of functional specification.",
   github: "https://github.com/Sathish1297?tab=repositories",
-  resume:
-    "https://drive.google.com/file/d/14yglPNSc-PIBa6uawavzt3fgE_myFOkU/view?usp=drive_link",
+  resume: "https://drive.google.com/file/d/17teQTKrvpX8-NCkAr8tvevduB36EqXH9/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/sathish-kumar-m-0659a8219/",
   insta: "https://www.instagram.com/sathish_m_12/",
   facebook: "https://www.facebook.com/sathishsatz777",
