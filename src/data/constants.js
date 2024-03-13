@@ -214,18 +214,18 @@ export const projects = [
     category: "android app",
     github: "https://github.com/Sathish1297/blog-app",
   },
-  {
-    id: 2,
-    title: "Amazon-Clone",
-    date: "Jan 2024",
-    description:
-      " A Amazon-Clone App made with React JS, Context API, and Material UI. It has a login page where users can sign in and sign up. It has a product page where users can see all the product list and can checkout it. It has been integrated with firebase for authentication.",
-    image:
-      "https://technicallyautonomous.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-08-at-5.56.52-PM-1024x624.jpg",
-    tags: ["React Js", "firebase", "Material-UI"],
-    category: "web app",
-    github: "https://github.com/Sathish1297/amazon-clone",
-  },
+  // {
+  //   id: 2,
+  //   title: "Amazon-Clone",
+  //   date: "Jan 2024",
+  //   description:
+  //     " A Amazon-Clone App made with React JS, Context API, and Material UI. It has a login page where users can sign in and sign up. It has a product page where users can see all the product list and can checkout it. It has been integrated with firebase for authentication.",
+  //   image:
+  //     "https://technicallyautonomous.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-08-at-5.56.52-PM-1024x624.jpg",
+  //   tags: ["React Js", "firebase", "Material-UI"],
+  //   category: "web app",
+  //   github: "https://github.com/Sathish1297/amazon-clone",
+  // },
   {
     id: 3,
     title: "Fiverr Clone",
